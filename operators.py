@@ -33,4 +33,15 @@
 x_intercept = -(-2)/2
 print (f'the x intercept for the eqn y = 2x -2 is ({x_intercept}, 0) and the y intercept is (0,2)')
 
+# slope- m = y2 -y1)/(x2- x1)
+#e.g. (2,2) and (6,10)
+slope = (10-2)/(6-2)
+print(f'the slope of points (2,2)(6,10) is {slope}')
+
+#quadratic +-
+
+print(len('python') != len('dragon'))
+print('on' in 'dragon')
+
+
 print ('End of program!!!')
